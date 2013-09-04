@@ -1,4 +1,4 @@
-myprj
+figpy
 =====
 
 Welcome. Just Started. 
